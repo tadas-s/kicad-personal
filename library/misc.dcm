@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AS6C8016-55ZIN
+D 512K X 16 BIT SUPER LOW POWER CMOS SRAM
+F https://www.alliancememory.com/wp-content/uploads/pdf/lp_sram/AS6C8016.pdf
+$ENDCMP
+#
+#End Doc Library
